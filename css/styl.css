@@ -1,0 +1,48 @@
+ 
+header{
+    background-color:lightgray;
+    border:solid 1px black;
+    font-family: 'Times New Roman', serif;
+}
+ 
+footer{
+    background-color: lightgray;
+    border:solid 1px black;
+}
+
+body{
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif ; 
+ }
+ 
+ 
+#main {
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    color: #202020;
+    margin: 20px   0px;
+    padding: 5px;
+}
+
+#main label{
+    font-weight: bold;
+}
+#main input[type=text]
+#main select,
+#main input[type=password],
+#main textarea {
+    width: 150px; ;
+}
+
+.simple-form input[type=text],
+.simple-form select,
+.simple-form input[type=password],
+.simple-form textarea{
+    widows: 150px; ;
+}
+
+.simple-form input[type=submit]{
+    background-color: green;
+    color: white;
+    border-
+}
+ 
